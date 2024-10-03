@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I'm Lucky Nkosi 🍀
 🌍I'm a full-stack developer based in Johannesburg, South Africa.<br>👨🏻‍💻I am passionate about building efficient backend systems and crafting engaging user experiences.<br>💪I thrive in solving complex problems with creative solutions.<br>📚I love learning and I am continuously expanding my skill set to evolve along with the tech world.
 
 
