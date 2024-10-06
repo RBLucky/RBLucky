@@ -1,4 +1,4 @@
-# Hi there, I'm Lucky Nkosi 🍀
+# Hi there, I'm Lucky🍀
 🌍I'm a full-stack developer based in Johannesburg, South Africa.<br>
 
 ## 🌐 Socials:
