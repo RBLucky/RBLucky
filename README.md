@@ -1,6 +1,5 @@
 # Hi there, I'm Lucky🍀
 🌍I'm a Full-Stack Developer based in Johannesburg, South Africa.<br>
-⛵2023 USSA Sailing Champion.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucky-nkosi-89abb3276) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nkosi.s.lucky) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LuckyNkosi-c0ded) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RBLucky) 
